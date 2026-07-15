@@ -1,0 +1,168 @@
+/* ─── RAG Demo — Dark Glassmorphism Theme ─── */
+/* Works WITH Streamlit's config.toml dark theme, not against it */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* ─── Root Variables ─── */
+:root {
+    --bg-glass: rgba(30, 30, 70, 0.5);
+    --bg-glass-hover: rgba(40, 40, 90, 0.6);
+    --border-glass: rgba(99, 102, 241, 0.25);
+    --accent-primary: #6366f1;
+    --accent-secondary: #8b5cf6;
+    --accent-gradient: linear-gradient(135deg, #6366f1, #8b5cf6, #a78bfa);
+    --success: #10b981;
+    --warning: #f59e0b;
+    --error: #ef4444;
+}
+
+/* ─── Typography ─── */
+html,
+body,
+[class*="css"] {
+    font-family: 'Inter', sans-serif !important;
+}
+
+/* ─── Gradient Title ─── */
+h1 {
+    background: var(--accent-gradient) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+    font-weight: 700 !important;
+}
+
+/* ─── Glass Cards ─── */
+.glass-card {
+    background: var(--bg-glass) !important;
+    backdrop-filter: blur(12px) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
+    border: 1px solid var(--border-glass) !important;
+    border-radius: 16px !important;
+    padding: 1.5rem !important;
+    margin-bottom: 1rem !important;
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.1) !important;
+    transition: all 0.3s ease !important;
+}
+
+.glass-card:hover {
+    background: var(--bg-glass-hover) !important;
+    border-color: rgba(99, 102, 241, 0.4) !important;
+}
+
+.glass-card h3 {
+    color: #e2e8f0 !important;
+    margin: 0 !important;
+}
+
+.glass-card p {
+    color: #cbd5e1 !important;
+}
+
+/* ─── Metric Cards ─── */
+.metric-card {
+    background: var(--bg-glass) !important;
+    backdrop-filter: blur(12px) !important;
+    border: 1px solid var(--border-glass) !important;
+    border-radius: 12px !important;
+    padding: 1.2rem !important;
+    text-align: center !important;
+    transition: all 0.3s ease !important;
+}
+
+.metric-card:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 0 8px 25px rgba(99, 102, 241, 0.2) !important;
+}
+
+.metric-value {
+    font-size: 2rem !important;
+    font-weight: 700 !important;
+    background: var(--accent-gradient) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+}
+
+.metric-label {
+    color: #94a3b8 !important;
+    font-size: 0.85rem !important;
+    font-weight: 500 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.5px !important;
+    margin-top: 0.3rem !important;
+}
+
+/* ─── Buttons ─── */
+.stButton>button {
+    background: var(--accent-gradient) !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 10px !important;
+    font-weight: 600 !important;
+    padding: 0.6rem 1.5rem !important;
+    transition: all 0.3s ease !important;
+    box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3) !important;
+}
+
+.stButton>button:hover {
+    transform: translateY(-1px) !important;
+    box-shadow: 0 6px 20px rgba(99, 102, 241, 0.4) !important;
+}
+
+/* ─── Tabs ─── */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px !important;
+    background: var(--bg-glass) !important;
+    border-radius: 12px !important;
+    padding: 4px !important;
+    border: 1px solid var(--border-glass) !important;
+}
+
+.stTabs [data-baseweb="tab"] {
+    border-radius: 8px !important;
+    font-weight: 500 !important;
+}
+
+.stTabs [aria-selected="true"] {
+    background: var(--accent-gradient) !important;
+    color: white !important;
+}
+
+/* ─── Progress Bar ─── */
+.stProgress>div>div>div {
+    background: var(--accent-gradient) !important;
+    border-radius: 10px !important;
+}
+
+/* ─── Animations ─── */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-out !important;
+}
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0f0f23;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #6366f1;
+    border-radius: 10px;
+}

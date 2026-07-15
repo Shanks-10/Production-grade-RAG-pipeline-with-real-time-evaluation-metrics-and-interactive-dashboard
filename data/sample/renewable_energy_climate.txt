@@ -1,0 +1,91 @@
+Renewable Energy and Climate Change: A Comprehensive Overview
+
+The Global Energy Transition
+
+The world is undergoing a fundamental transformation in how it produces and consumes energy. Driven by the urgent need to address climate change, countries around the globe are shifting from fossil fuels — coal, oil, and natural gas — toward renewable energy sources. This transition represents one of the most significant economic and technological shifts in human history.
+
+The Paris Agreement, adopted in 2015, set the goal of limiting global warming to well below 2 degrees Celsius above pre-industrial levels, with efforts to limit the increase to 1.5 degrees. Achieving these targets requires a dramatic reduction in greenhouse gas emissions, with the energy sector being the largest contributor.
+
+Solar Energy
+
+Solar power harnesses energy from the sun using photovoltaic (PV) cells or concentrated solar power (CSP) systems. Key facts about solar energy:
+
+Photovoltaic Technology: PV cells convert sunlight directly into electricity using semiconductor materials, typically silicon. When photons from sunlight hit the solar cell, they knock electrons free from atoms, generating a flow of electricity. Modern solar panels achieve efficiency rates of 20-25% for commercial panels, with laboratory cells exceeding 47%.
+
+Types of Solar Installations:
+- Rooftop Solar: Small-scale installations on residential and commercial buildings, typically 5-20 kW
+- Solar Farms: Large-scale ground-mounted installations, often spanning hundreds of acres, generating 50-500+ MW
+- Floating Solar: Panels installed on bodies of water, reducing land use and evaporation
+- Building-Integrated PV (BIPV): Solar cells integrated into building materials like windows, facades, and roof tiles
+
+Cost Decline: The cost of solar panels has dropped by over 99% since 1976. The levelized cost of electricity (LCOE) from solar PV fell from $0.36/kWh in 2010 to under $0.05/kWh in 2023, making it the cheapest source of new electricity in most of the world.
+
+Wind Energy
+
+Wind energy captures the kinetic energy of moving air using turbines. Modern wind turbines consist of three main components: the rotor blades, the nacelle (containing the generator), and the tower.
+
+Onshore Wind: Turbines installed on land, typically in open plains, ridges, or agricultural areas. Modern onshore turbines have a capacity of 2-6 MW each, with rotor diameters of 100-170 meters. Wind farms can contain dozens to hundreds of turbines.
+
+Offshore Wind: Turbines installed in bodies of water, usually on the continental shelf. Offshore wind benefits from stronger and more consistent winds, with turbines reaching 12-15 MW capacity and rotor diameters exceeding 220 meters. Floating offshore wind technology allows deployment in deeper waters.
+
+Global Wind Capacity: As of 2023, global installed wind capacity exceeded 900 GW, with China, the United States, Germany, India, and Spain leading in installations. Wind energy supplied approximately 7.5% of global electricity.
+
+Hydroelectric Power
+
+Hydropower is the largest source of renewable electricity globally, providing about 16% of the world's electricity. It works by converting the kinetic energy of flowing or falling water into electricity using turbines.
+
+Types of Hydropower:
+- Conventional Dams: Large reservoirs that store water and release it through turbines
+- Run-of-River: Channels a portion of a river through turbines without large reservoirs
+- Pumped-Storage: Stores energy by pumping water uphill during low-demand periods and releasing it during peak demand
+- Small Hydro: Installations under 10 MW capacity, often used in rural areas
+
+The Three Gorges Dam in China is the world's largest hydroelectric facility, with a capacity of 22,500 MW.
+
+Energy Storage and Batteries
+
+Energy storage is critical for managing the intermittent nature of solar and wind power. Key storage technologies include:
+
+Lithium-Ion Batteries: The dominant technology for grid-scale storage and electric vehicles. These batteries store energy through the movement of lithium ions between electrodes. Costs have fallen by 97% since 1991, from $7,523/kWh to under $140/kWh in 2023.
+
+Solid-State Batteries: Next-generation technology replacing the liquid electrolyte with a solid material. Benefits include higher energy density, faster charging, longer lifespan, and improved safety. Expected to reach commercial scale by 2027-2030.
+
+Flow Batteries: Use liquid electrolytes stored in external tanks. Advantage: capacity can be scaled independently of power by simply adding larger tanks. Ideal for long-duration storage (4-12+ hours).
+
+Green Hydrogen: Produced by splitting water using renewable electricity (electrolysis). Can be stored and transported, then converted back to electricity or used as fuel. Key application for decarbonizing hard-to-electrify sectors like heavy industry, shipping, and aviation.
+
+Climate Change Impacts
+
+Global Temperature Rise: The Earth's average surface temperature has risen by approximately 1.1 degrees Celsius since pre-industrial times. The rate of warming has accelerated, with the last decade (2014-2023) being the warmest on record.
+
+Sea Level Rise: Global sea levels have risen by about 21-24 centimeters since 1880, with the rate accelerating. Projections suggest 0.3-1.0 meters of additional rise by 2100 depending on emission scenarios. This threatens coastal cities and island nations.
+
+Extreme Weather Events: Climate change is increasing the frequency and intensity of extreme weather events including hurricanes, droughts, heatwaves, and flooding. Attribution science can now quantify how much more likely specific events are due to climate change.
+
+Arctic Ice Loss: Arctic sea ice extent has declined by about 13% per decade since satellite records began in 1979. The Arctic could experience ice-free summers by the 2040s.
+
+Carbon Capture and Sequestration
+
+Carbon capture technologies remove CO2 from the atmosphere or from emission sources:
+- Direct Air Capture (DAC): Machines that pull CO2 directly from ambient air using chemical processes
+- Point Source Capture: Capturing CO2 from industrial facilities like power plants and cement factories
+- Natural Carbon Sinks: Forests, oceans, and soil naturally absorb CO2. Protecting and restoring these ecosystems is vital
+- Biochar: Converting agricultural waste into stable carbon through pyrolysis and adding it to soil
+
+The Role of Electric Vehicles
+
+Transportation accounts for about 16% of global greenhouse gas emissions. Electric vehicles (EVs) are central to decarbonizing this sector:
+- Battery Electric Vehicles (BEVs): Powered entirely by electricity stored in batteries
+- Global EV sales exceeded 14 million units in 2023, representing about 18% of all new car sales
+- Total cost of ownership for EVs is now lower than combustion vehicles in many markets
+- Charging infrastructure is expanding rapidly, with over 2.7 million public charging points worldwide
+- Vehicle-to-Grid (V2G) technology allows EVs to feed electricity back to the grid during peak demand
+
+International Climate Policy
+
+Key international frameworks driving climate action:
+- United Nations Framework Convention on Climate Change (UNFCCC): The overarching treaty since 1992
+- Kyoto Protocol (1997): First binding emission reduction targets for developed nations
+- Paris Agreement (2015): Nearly universal participation with nationally determined contributions (NDCs)
+- COP conferences: Annual meetings where nations negotiate and update climate commitments
+- Green Climate Fund: Supports developing nations in adaptation and mitigation efforts
