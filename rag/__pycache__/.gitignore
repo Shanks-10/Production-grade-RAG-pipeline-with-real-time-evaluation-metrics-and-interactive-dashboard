@@ -1,0 +1,46 @@
+# ─── Environment & Secrets ───
+.env
+.env.*
+!.env.example
+
+# ─── Python ───
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ─── Virtual Environment ───
+venv/
+env/
+.venv/
+
+# ─── Distribution / Packaging ───
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ─── IDE / Editor ───
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ─── Jupyter ───
+.ipynb_checkpoints/
+
+# ─── PyTorch / Model Cache ───
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# ─── Data & Reports (generated) ───
+data/metrics_report.json
+data/metrics_report.csv
+
+# ─── OS Files ───
+Thumbs.db
+.DS_Store
