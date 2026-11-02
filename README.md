@@ -2,7 +2,7 @@
 
 # 🧠 RAG System — Retrieval-Augmented Generation Pipeline
 
-**A production-grade RAG system with real-time evaluation metrics, semantic document chunking, and an interactive analytics dashboard**
+**A production-grade RAG system with real-time evaluation metrics, semantic document chunking, and an interactive analytics dashboard.**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
