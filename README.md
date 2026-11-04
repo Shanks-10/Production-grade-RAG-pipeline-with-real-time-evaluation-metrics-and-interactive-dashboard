@@ -374,9 +374,3 @@ Contributions are welcome! Here's how to get started:
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-<div align="center">
-
-**Built with ❤️ using Python, Streamlit, Qdrant, and Sentence-Transformers**
-
-</div>
